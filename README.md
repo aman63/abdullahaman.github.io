@@ -1,6 +1,6 @@
-# Sarathismg.github.io
+# abdullahaman.github.io
 
-GitHub personal website. Visit my website http://Sarathismg.github.io
+GitHub personal website. Visit my website http://abdullahaman.github.io
 
 ## Usage
 
