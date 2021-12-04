@@ -76,7 +76,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: cyan;
+  background-color: lightgray;
 }
 
 .dev-icons {
@@ -84,7 +84,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: cyan;
+  color: lightgray;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -180,11 +180,11 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: cyan !important;
+  background-color: lightgray !important;
 }
 
 .text-primary {
-  color: cyan !important;
+  color: lightgray !important;
 }
 
 a {
